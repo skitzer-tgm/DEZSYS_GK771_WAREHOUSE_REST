@@ -1,7 +1,6 @@
-# Middleware Engineering "Distributed Architecture and Document Formats"
+# Middleware Engineering "REST and Data Formats"
 
 ## Aufgabenstellung
-Die detaillierte [Aufgabenstellung](TASK.md) beschreibt die notwendigen Schritte zur Realisierung.
 
 ## Implementierung
 
