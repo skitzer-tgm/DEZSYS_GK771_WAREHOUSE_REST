@@ -9,7 +9,7 @@ Der Lagerstandort Linz der grossen Handelskette KONSUM lagert alle Lebensmittel,
 *   Java Programmierkenntnisse
 *   Verwendung von Gradle und Git
 *   Grundlagen Dezentrale Systeme
-*   Grundlagen XML (siehe [T7.3.4 Dokumentformat XML](doc/dezsys_midengineering_T7.3.5_documentformats_rest_xml.pdf) )
+*   Grundlagen XML (siehe [T7.3.4 Dokumentformat XML](doc/dezsys_midengineering_T7.3.4_documentformats_xml.pdf) )
 *   Grundlagen JSON & REST (siehe [T7.3.5 Dokumentformat JSON / REST Architektur](doc/dezsys_midengineering_T7.3.5_documentformats_rest_json.pdf) )
 
 ## Daten einer Zeitmessungsanlage/Timing Station (Beispiel)
