@@ -80,7 +80,7 @@ Diese Daten sollen gemeinsam mit einigen Details zum dem Standort ueber eine RES
 ## Dokumente und Links
 
 * XML Daten - Timing Station (Example)
-[warehouse.xml](warehouse.xml)
+[warehouse.xml](doc/warehouse.xml)
 
 * Spring Boot
 [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
