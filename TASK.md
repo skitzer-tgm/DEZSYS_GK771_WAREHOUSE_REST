@@ -79,9 +79,6 @@ Diese Daten sollen gemeinsam mit einigen Details zum dem Standort ueber eine RES
 
 ## Dokumente und Links
 
-* Architektur - Warehouse
-[marathon_map.pdf](marathon_map.pdf)
-
 * XML Daten - Timing Station (Example)
 [warehouse.xml](warehouse.xml)
 
