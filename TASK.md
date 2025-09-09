@@ -12,7 +12,7 @@ Der Lagerstandort Linz der grossen Handelskette KONSUM lagert alle Lebensmittel,
 *   Grundlagen XML (siehe [T7.3.4 Dokumentformat XML](doc/dezsys_midengineering_T7.3.4_documentformats_xml.pdf) )
 *   Grundlagen JSON & REST (siehe [T7.3.5 Dokumentformat JSON / REST Architektur](doc/dezsys_midengineering_T7.3.5_documentformats_rest_json.pdf) )
 
-## Daten einer Zeitmessungsanlage/Timing Station (Beispiel)
+## Daten eines Warenlagers (Beispiel)
 
 ```
 <warehouseData>
