@@ -104,13 +104,13 @@ Diese Daten sollen gemeinsam mit einigen Details zum dem Standort ueber eine RES
 
 Gruppengroesse: 1 Person
 
-* Anforderungen "Grundlagen"
+* Anforderungen "Grundlagen" (2 Punkte)
 
   - Implementierung eines Generator zur Erzeugung der Standort- und Warendaten
   - Implementierung der REST Schnittstelle
   - Daten im JSON und XML Format zur Verfuegung stellen
 
-* Anforderungen "Erweiterte Grundlagen"
+* Anforderungen "Erweiterte Grundlagen" (2 Punkte)
 
   - Implementation eines "Consumer" und Darstellung der Daten in einer Tabelle
   - Daten koennen nach folgenden Kriterien gefiltert werden:
