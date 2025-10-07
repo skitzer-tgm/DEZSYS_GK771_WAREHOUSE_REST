@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>warehouse</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+</head>
+<body>
+
+<div class="controls">
+    <div>
+        <select id="location-selector">
+            <option value="001">Linz Bahnhof</option>
+            <option value="002">Hauptbahnhof</option>
+            <option value="003">nicht existenter bahnhof</option>
+        </select>
+    </div>
+
+    <div>
+        <input type="text" id="product-name-filter" placeholder="z.B. Bio Apfel...">
+    </div>
+</div>
+
+<table id="product-table">
+    <thead>
+    <tr>
+        <th>Produkt ID</th>
+        <th>Produktname</th>
+        <th>Kategorie</th>
+        <th>Menge</th>
+        <th>Einheit</th>
+    </tr>
+    </thead>
+    <tbody id="product-table-body">
+    </tbody>
+</table>
+
+<script src="app.js"></script>
+
+</body>
+</html>
